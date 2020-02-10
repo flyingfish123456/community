@@ -24,8 +24,8 @@ target/
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
-build/
-
 ### VS Code ###
 .vscode/
+
+/.nb-gradle/
+build/
